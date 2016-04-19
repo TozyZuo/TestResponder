@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  TestResponder
+//
+//  Created by TozyZuo on 16/4/14.
+//  Copyright © 2016年 TozyZuo. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import "UIView+Sizes.h"
+#endif
+
+#endif /* PrefixHeader_pch */
