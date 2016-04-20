@@ -12,7 +12,6 @@
 		BA2C87F11CBF743B008E4B83 /* ViewController1.m in Sources */ = {isa = PBXBuildFile; fileRef = BA2C87F01CBF743B008E4B83 /* ViewController1.m */; };
 		BA2C87F61CBF743B008E4B83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA2C87F51CBF743B008E4B83 /* Assets.xcassets */; };
 		BA2C87F91CBF743B008E4B83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA2C87F71CBF743B008E4B83 /* LaunchScreen.storyboard */; };
-		BA2C88011CBF74C1008E4B83 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BA2C88001CBF74C1008E4B83 /* Default-568h@2x.png */; };
 		BA56134F1CC0E82400B25ED3 /* TRView.m in Sources */ = {isa = PBXBuildFile; fileRef = BA56134E1CC0E82400B25ED3 /* TRView.m */; };
 		BA9694E21CC486A800C94D61 /* TRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA9694E11CC486A800C94D61 /* TRViewController.m */; };
 		BACDF8681CC4DD7B00A46CC2 /* TRNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = BACDF8671CC4DD7B00A46CC2 /* TRNavigationController.m */; };
@@ -37,7 +36,6 @@
 		BA2C87F51CBF743B008E4B83 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA2C87F81CBF743B008E4B83 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA2C87FA1CBF743B008E4B83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BA2C88001CBF74C1008E4B83 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../Default-568h@2x.png"; sourceTree = "<group>"; };
 		BA56134D1CC0E82400B25ED3 /* TRView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TRView.h; sourceTree = "<group>"; };
 		BA56134E1CC0E82400B25ED3 /* TRView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TRView.m; sourceTree = "<group>"; };
 		BA9694E01CC486A800C94D61 /* TRViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TRViewController.h; sourceTree = "<group>"; };
@@ -120,7 +118,6 @@
 				BA2C87F51CBF743B008E4B83 /* Assets.xcassets */,
 				BA2C87F71CBF743B008E4B83 /* LaunchScreen.storyboard */,
 				BA2C87FA1CBF743B008E4B83 /* Info.plist */,
-				BA2C88001CBF74C1008E4B83 /* Default-568h@2x.png */,
 				BA2C87EA1CBF743B008E4B83 /* main.m */,
 				BAFC4A9B1CBF7E790035AED8 /* PrefixHeader.pch */,
 			);
@@ -225,7 +222,6 @@
 				BA2C87F61CBF743B008E4B83 /* Assets.xcassets in Resources */,
 				BAF43B171CBF79EE005371BB /* TRRootViewController.xib in Resources */,
 				BAFC4AAA1CBF8F550035AED8 /* VC1BottomViewController.xib in Resources */,
-				BA2C88011CBF74C1008E4B83 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
